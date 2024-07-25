@@ -5,7 +5,7 @@ I am a junior developer passionate about technology and continuous learning. Whi
 ## About Me
 
 - 📚 I'm a Computer Engineering student at University Simon Bolivar.
-- 🌱 Currently learning Godot, C# and Djando.
+- 🌱 Currently learning Godot, C# and Django.
 - 👨‍💻 Interested in game development and backend systems.
 - 🔍 Seeking opportunities to apply my skills in real projects and continue developing as a programmer.
 
@@ -18,7 +18,7 @@ I am a junior developer passionate about technology and continuous learning. Whi
 
 ## Projects
 
-- [Project Name](link/to/project): Brief description of the project, what you learned, and the technologies used.
+- [GCL Interpreter](link/to/project): Program that is responsible for checking if a program written in GCL is correct.
   - **Technologies**: ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ## Education
