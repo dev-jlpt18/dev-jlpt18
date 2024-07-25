@@ -27,9 +27,9 @@ I am a junior developer passionate about technology and continuous learning. Whi
 
 ## Contact
 
-- [![Twitter](https://img.shields.io/badge/Twitter-@jlpt_1811-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://x.com/jlpt_1811)
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jesus-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/jes%C3%BAs-prieto-659636230/)
-   
+- [![X](https://img.shields.io/badge/X-@jlpt_1811-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/jlpt_1811)
+- [![LinkedIn](https://img.shields.io/badge/linkedin-Jesus-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jes%C3%BAs-prieto-659636230/)
+
 ## Interests :
 
 - 📚 Reading book and new technologies
@@ -42,3 +42,10 @@ I am a junior developer passionate about technology and continuous learning. Whi
 - Participating in hackathons and collaborative projects
 - Contribute to open-source projects.
 - Find a junior developer position to apply my knowledge and grow professionally.
+
+
+- ---
+
+*“Sometimes it is the people no one imagines anything of who do the things that no one can imagine.”*  
+- ---
+-Alan Turing
