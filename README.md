@@ -18,7 +18,7 @@ I am a junior developer passionate about technology and continuous learning. Whi
 
 ## Projects
 
-- [GCL Interpreter](link/to/project): Program that is responsible for checking if a program written in GCL is correct.
+- [GCL Interpreter](https://github.com/dev-jlpt18/GLC-Interpreter): Program that is responsible for checking if a program written in GCL is correct.
   - **Technologies**: ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ## Education
@@ -45,10 +45,9 @@ I am a junior developer passionate about technology and continuous learning. Whi
 
 ## Statistics
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-jlpt18&theme=merko&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-jlpt18&langs_count=4&theme=merko)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-jlpt18&theme=merko&show_icons=true) 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-jlpt18&show_icons=true&theme=merko)
 ## Motivation
 - ---
 *“Sometimes it is the people no one imagines anything of who do the things that no one can imagine.”*  
