@@ -53,4 +53,4 @@ I am a junior developer passionate about technology and continuous learning. Whi
 - ---
 *“Sometimes it is the people no one imagines anything of who do the things that no one can imagine.”*  
 - ---
--Alan Turing
+_Alan Turing_
