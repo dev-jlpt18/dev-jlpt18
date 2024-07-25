@@ -43,9 +43,14 @@ I am a junior developer passionate about technology and continuous learning. Whi
 - Contribute to open-source projects.
 - Find a junior developer position to apply my knowledge and grow professionally.
 
+## Statistics
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-jlpt18&theme=merko&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-jlpt18&theme=merko&show_icons=true) 
+
+## Motivation
 - ---
-
 *“Sometimes it is the people no one imagines anything of who do the things that no one can imagine.”*  
 - ---
 -Alan Turing
